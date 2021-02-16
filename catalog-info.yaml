@@ -8,3 +8,5 @@ spec:
     - ./test/test1.yaml
     - ./test/test2.yaml
     - ./test/test3.yaml
+    - ./test/test4.yaml
+

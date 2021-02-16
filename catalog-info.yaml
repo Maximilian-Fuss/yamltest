@@ -9,4 +9,4 @@ spec:
     - ./test/test2.yaml
     - ./test/test3.yaml
     - ./test/test4.yaml
-
+    - ./test/test5.yaml

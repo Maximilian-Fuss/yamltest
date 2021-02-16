@@ -7,3 +7,4 @@ spec:
   targets:
     - ./apis/test1.yaml
     - ./apis/test2.yaml
+    - ./apis/test3.yaml

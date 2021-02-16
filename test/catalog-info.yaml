@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: testyaml
+  annotations:
+    github.com/project-slug: multigrid101/vimrc
+    backstage.io/techdocs-ref: url:https://github.com/org/repo
+  namespace: default
+spec:
+  type: other
+  lifecycle: test2
+  owner: maximilian2

@@ -7,6 +7,6 @@ metadata:
     backstage.io/techdocs-ref: url:https://github.com/org/repo
   namespace: default
 spec:
-  type: other
+  type: Documentation
   lifecycle: test
   owner: maximilian2

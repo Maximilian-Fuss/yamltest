@@ -6,6 +6,6 @@ metadata:
     github.com/project-slug: multigrid101/vimrc
   namespace: default
 spec:
-  type: other
-  lifecycle: unknown
+  type: testtype
+  lifecycle: 2
   owner: maximilian

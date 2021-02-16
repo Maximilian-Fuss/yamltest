@@ -7,5 +7,5 @@ metadata:
   namespace: default
 spec:
   type: other
-  lifecycle: test3
+  lifecycle: test4
   owner: maximilian2

@@ -4,7 +4,6 @@ metadata:
   name: vimrc4
   annotations:
     github.com/project-slug: multigrid101/vimrc
-    backstage.io/techdocs-ref: url:https://github.com/org/repo
   namespace: default
 spec:
   type: other

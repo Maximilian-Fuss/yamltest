@@ -11,4 +11,5 @@ spec:
     - ./test/test4.yaml
     - ./test/test5.yaml
     - ./test/test6.yaml
+    - ./test/test7.yaml
     - ./docs.yaml

@@ -3,8 +3,6 @@ kind: Location
 metadata:
   name: example-apis
   description: A collection of all Backstage example APIs
-  annotations:
-    backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest
 spec:
   targets:
     - ./test/test1.yaml

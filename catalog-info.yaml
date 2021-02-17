@@ -5,8 +5,8 @@ metadata:
   description: A collection of all Backstage example APIs
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest
-    catalog:
-locations:
+catalog:
+  locations:
     # Backstage Example Templates
     - type: url
       target: https://github.com/backstage/backstage/blob/master/plugins/scaffolder-backend/sample-templates/react-ssr-template/template.yaml

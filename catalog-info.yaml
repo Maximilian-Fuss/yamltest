@@ -5,3 +5,8 @@ metadata:
   description: A collection of all Backstage example APIs
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest
+  namespace: default
+spec:
+  type: other
+  lifecycle: test1
+  owner: maximilian2

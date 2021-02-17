@@ -5,13 +5,6 @@ metadata:
   description: A collection of all Backstage example APIs
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest
-spec:
-  targets:
-    - ./test/test1.yaml
-    - ./test/test2.yaml
-    - ./test/test3.yaml
-    - ./test/test4.yaml
-    - ./test/test5.yaml
     catalog:
 locations:
     # Backstage Example Templates

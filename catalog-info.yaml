@@ -1,13 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test10
+  name: vimrc
   annotations:
     github.com/project-slug: multigrid101/vimrc
-    backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest
   namespace: default
 spec:
   type: other
-  lifecycle: test10
-  owner: maximilian2
-    
+  lifecycle: unknown
+  owner: Sebastian

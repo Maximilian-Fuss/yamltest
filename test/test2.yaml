@@ -9,3 +9,5 @@ spec:
   type: other
   lifecycle: test2
   owner: maximilian2
+  providesApis:
+    - test1

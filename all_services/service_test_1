@@ -1,1 +1,14 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service_test_1
+  annotations:
+    github.com/project-slug: multigrid101/vimrc
+    backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest
+  namespace: default
+spec:
+  type: service
+  lifecycle: test2
+  owner: maximilian2
+  providesApis:
+    - api_test_1

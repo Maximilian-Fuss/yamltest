@@ -11,3 +11,5 @@ spec:
   owner: maximilian2
   providesApis:
     - test1
+    - hello-world
+    - petstore

@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: service_test_2
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest
+    backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest/tree/main/docs/doc_test_2
   namespace: default
 spec:
   type: service

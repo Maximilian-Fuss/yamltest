@@ -5,12 +5,6 @@ metadata:
   description: A collection of all Backstage example APIss
 spec:
   targets:
-    - ./test/test1.yaml
-    - ./test/test2.yaml
-    - ./test/test3.yaml
-    - ./test/test4.yaml
-    - ./test/test5.yaml
-    - ./test/test6.yaml
-    - ./test/test7.yaml
-    - ./test/test8.yaml
-    - ./docs.yaml
+    - ./all_apis.yaml
+    - ./all_services.yaml
+

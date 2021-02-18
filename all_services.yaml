@@ -6,4 +6,5 @@ metadata:
 spec:
   targets:
     - ./all_services/service_test_1.yaml
+    - ./all_services/service_test_2.yaml
 

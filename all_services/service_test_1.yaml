@@ -11,4 +11,4 @@ spec:
   owner: test_owner
   providesApis:
     - api_test_1
-    - api_test-2
+    - api_test_2

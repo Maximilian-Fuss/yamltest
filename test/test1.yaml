@@ -1,14 +1,12 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: API
 metadata:
-  name: test1
-  annotations:
-    github.com/project-slug: multigrid101/vimrc
-  namespace: default
+  name: hello-world
+  description: Hello World example for gRPC
 spec:
-  type: other
-  lifecycle: test1
-  owner: maximilian2
+  type: grpc
+  lifecycle: deprecated
+  owner: team-c
   definition: |
     // Copyright 2015 gRPC authors.
     //
@@ -41,3 +39,4 @@ spec:
     // The response message containing the greetings
     message HelloReply {
       string message = 1;
+    }

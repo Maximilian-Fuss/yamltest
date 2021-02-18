@@ -4,6 +4,7 @@ metadata:
   name: test2
   annotations:
     github.com/project-slug: multigrid101/vimrc
+    backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest
   namespace: default
 spec:
   type: service

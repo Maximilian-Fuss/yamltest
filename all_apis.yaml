@@ -7,3 +7,5 @@ spec:
   targets:
     - ./all_apis/api_test_1.yaml
     - ./all_apis/api_test_2.yaml
+    - ./all_apis/api_test_3.yaml
+    - ./all_apis/api_test_4.yaml

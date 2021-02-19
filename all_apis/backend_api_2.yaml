@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: api_test_3
+  name: backend_api_2
   description: The petstore API
   tags:
     - store

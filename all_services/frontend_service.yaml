@@ -4,7 +4,7 @@ metadata:
   name: frontend_service
   links:
   - url: https://google.com
-    title: Examples Users
+    title: Examples Link
     icon: user
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest/tree/main/docs/doc_test_1

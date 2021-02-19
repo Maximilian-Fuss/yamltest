@@ -7,5 +7,3 @@ spec:
   targets:
     - ./all_apis.yaml
     - ./all_services.yaml
-    - ./docs.yaml
-

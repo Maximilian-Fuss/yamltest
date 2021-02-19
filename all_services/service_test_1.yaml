@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: service_test_1
+  name: frontend_service
   links:
   - url: https://google.com
     title: Examples Users

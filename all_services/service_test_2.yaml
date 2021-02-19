@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: service_test_2
+  name: backend_service
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest/tree/main/docs/doc_test_2
   namespace: default

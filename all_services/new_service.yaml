@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: new_service
+  name: new_service_1
   links:
   - url: https://google.com
     title: Examples Link

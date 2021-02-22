@@ -9,4 +9,3 @@ spec:
     - ./all_apis/frontend_api_2.yaml
     - ./all_apis/backend_api_1.yaml
     - ./all_apis/backend_api_2.yaml
-    - ./all_apis/new_api.yaml

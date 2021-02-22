@@ -7,5 +7,4 @@ spec:
   targets:
     - ./all_services/frontend_service.yaml
     - ./all_services/backend_service.yaml
-    - ./all_services/new_service.yaml
 

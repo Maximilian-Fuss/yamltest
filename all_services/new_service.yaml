@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: new_service
+  links:
+  - url: https://google.com
+    title: Examples Link
+    icon: user
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/Maximilian-Fuss/yamltest/tree/main/docs/doc_test_2
+  namespace: default
+spec:
+  type: service
+  lifecycle: test_lifecycle
+  owner: test_owner
+  providesApis:
+    - backend_api_1
+    - backend_api_2
